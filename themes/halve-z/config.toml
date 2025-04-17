@@ -1,5 +1,3 @@
-theme = "halve-z"
-
 ###
 base_url = "https://halve-z.netlify.app"
 title = "Halve-Z Zola theme"
