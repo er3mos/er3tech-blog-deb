@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://seanmckernan.xyz/sitemap.xml
+Sitemap: https://er3tech.com/sitemap.xml
